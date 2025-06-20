@@ -124,7 +124,7 @@ const ConfirmationModal = ({ isOpen, onClose, selectedServices, onConfirmReserva
                 checked={paymentMethod === 'card'}
                 onChange={(e) => setPaymentMethod(e.target.value)}
               />
-              <span className="ml-2 text-gray-700 text-sm">Tarjeta</span>
+              <span className="ml-2 text-gray-700 text-sm">Tarjeta(transferencia)</span>
             </label>
           </div>
         </div>

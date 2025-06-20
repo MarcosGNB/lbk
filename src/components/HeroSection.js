@@ -11,7 +11,7 @@ const HeroSection = () => {
         {/* Logo/texto de la barbería con efecto vintage */}
         <div className="mb-8 text-center">
           <h1 className="text-6xl md:text-8xl font-bold mb-2 text-amber-500 font-serif tracking-wider">LBK</h1>
-          <p className="text-xl md:text-2xl text-white uppercase tracking-widest">BARBERÍA DE KIKI</p>
+          <p className="text-xl md:text-2xl text-white uppercase tracking-widest">La BARBERÍA DE KIKI</p>
           <p className="text-lg text-amber-400 mt-2">DESDE 2021</p>
         </div>
         
