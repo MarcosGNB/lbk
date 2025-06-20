@@ -17,7 +17,9 @@ const GallerySection = () => {
     { name: "Instagram", url: "https://instagram.com/labarberiadekiki_.", icon: "/images/instagram-icon.png", color: "bg-pink-600" },
     { name: "Facebook", url: "https://facebook.com/La Barberia De Kiki", icon: "/images/facebook-icon.png", color: "bg-blue-600" },
     { name: "TikTok", url: "https://tiktok.com/@labarberiadekiki", icon: "/images/tiktok-icon.png", color: "bg-black" },
-    { name: "WhatsApp", url: "https://wa.me/0994116266", icon: "/images/whatsapp-icon.png", color: "bg-green-500" }
+    { name: "WhatsApp", url: "https://wa.me/+595 994 116266?=Hola%Kiki", icon: "/images/whatsapp-icon.png", color: "bg-green-500" }
+
+    
   ];
 
   const openModal = () => setIsModalOpen(true);
@@ -96,7 +98,7 @@ const GallerySection = () => {
               <div className="mt-8 pt-6 border-t border-gray-700">
                 <p className="text-gray-400">O escríbenos directamente:</p>
                 <a 
-                  href="tel:+1234567890" 
+                  href="tel:+595 994 116266"
                   className="inline-block mt-2 px-6 py-2 bg-gray-700 hover:bg-gray-600 rounded-full text-white transition-colors"
                 >
                   📞 Llamar Ahora
